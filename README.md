@@ -1,4 +1,23 @@
 ### Hi there 👋
+I'm a junior developer from Russia.
+
+📫 **How to reach me**
+ - mail: bleedthemwhite@yandex.ru
+ - telegram: @AwokenBTW
+
+My skills are:
+- **Frontend**
+  - web (HTML\CSS, JS, React)
+  - mobile (Flutter, ReactNative)
+- **SQL**
+  - MSSQL
+  - Mysql
+  - PostgreSql
+ 
+I also had an expirience with C#
+
+Currently working on my diploma, as well as some other projects, which you can see **pinned** bellow in real time.
+
 
 <!--
 **EvgrafovBTW/EvgrafovBTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
