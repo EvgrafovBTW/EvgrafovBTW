@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a junior developer from Russia.
+I'm junior developer from Russia.
 
 📫 **How to reach me**
  - mail: bleedthemwhite@yandex.ru
@@ -14,7 +14,7 @@ My skills are:
   - Mysql
   - PostgreSql
  
-I also had an expirience with C#
+I also had expirience with C#
 
 Currently working on my diploma, as well as some other projects, which you can see **pinned** bellow in real time.
 
