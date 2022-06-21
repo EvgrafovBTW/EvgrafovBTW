@@ -14,9 +14,8 @@ My skills are:
   - Mysql
   - PostgreSql
  
-I also had expirience with C#
 
-Currently working on my diploma, as well as some other projects, which you can see **pinned** bellow in real time.
+Feel free to check out some projects, which you can see **pinned** bellow in real time.
 
 
 <!--
