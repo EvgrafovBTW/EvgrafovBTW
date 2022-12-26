@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm a middle developer from Russia.
 
 📫 **How to reach me**
  - mail: bleedthemwhite@yandex.ru
