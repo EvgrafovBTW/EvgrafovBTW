@@ -8,6 +8,7 @@ My skills are:
 - **Frontend**
   - web (HTML\CSS, JS, React)
   - mobile (Flutter, ReactNative)
+  - Android (Kotlin\Jetpack Compose)
 - **SQL**
   - MSSQL
   - Mysql
