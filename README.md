@@ -7,13 +7,29 @@
 
 **Основные навыки** : 
 Flutter, Dart, Kotlin, Jetpack Compose, SQL, SQLite, MySql, PostgreSql,\
-BloC, Firebase, Riverpod, Google/Yandex maps, RxDart, WebRTC, Apple Pay/Google Pay, Rive, GetIt, Audio\video, Json Serelializable, GoRouter, VKauth, Webview, Camera\
-KISS, DRY, SOLID, разработка с нуля, чистая архитектура, debounce, custom paint,\
+BloC, GetX, Firebase, Riverpod, Google/Yandex maps, RxDart, WebRTC, Apple Pay/Google Pay, Rive, GetIt, Audio\video, Json Serelializable, GoRouter, VKauth, Webview, Camera\
+KISS, DRY, SOLID, разработка с нуля, чистая архитектура, debounce, custom paint, Авторизация по биометрии\
 Whisper, TTS (text-to-speech), STT(speech-to-text)
 
 
  **Проекты:**
- ***Проект*** - КС Авто (Ноябрь 2025 - )\
+ ***Проект*** - Приложение для обмена ваучерами (NDA) (Январь 2025 - )\
+Компания - NDA\
+*Роль* – Lead Flutter разработчик\
+*Команда:* 1 Mobile (Flutter)\
+*Описание проекта:* 
+> Разработка мобильного Web3 приложения для обмена ваучерами и работой с финансами
+
+*Задачи в проекте* :
+- Изменение готовой кодовый базы под нужды проекта
+- Сопровождение приложения
+- Консультирование в принятии решений по развитию приложения
+- Оптимизация UI\UX
+  
+***Технологии/языки/инструменты*** : Flutter, GetX, http, Firebase, Pusher Beams, Webview, Json Serializable
+________________________________________________________________________________________________________________________
+ 
+ ***Проект*** - КС Авто (Ноябрь 2024 - )\
 Компания - “DstLab”\
 *Роль* – Lead Flutter разработчик\
 *Команда:* 2 Mobile (Flutter) 4 Backend (PHP/bitrix)\
@@ -23,8 +39,7 @@ Whisper, TTS (text-to-speech), STT(speech-to-text)
 *Задачи в проекте* :
 - Создание приложение с нуля
 - Сопровождение приложения
-- Руководство над мобильной частью приложение
-- Оптимизация UI\UX
+- Руководство над мобильной частью приложения
   
 ***Технологии/языки/инструменты*** : Flutter, Riverpod, Dio, Firebase, Webview, AutoRoute, Json Serializable, getIt
 ________________________________________________________________________________________________________________________
