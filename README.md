@@ -1,7 +1,7 @@
 ### Кирилл Хомяков – Middle+ Flutter developer
 
  - email: bleedthemwhite@yandex.ru
- - telegram: @AwokenBTW
+ - telegram: @HomyakovKD
 
 **Локация/Гражданство** : Новосибирск/РФ
 
