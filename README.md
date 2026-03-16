@@ -1,4 +1,4 @@
-### Кирилл Хомяков – Middle+ Flutter developer
+### Кирилл Хомяков – Senior Flutter developer
 
  - email: bleedthemwhite@yandex.ru
  - telegram: @HomyakovKD
